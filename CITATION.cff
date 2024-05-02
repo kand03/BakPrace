@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software in your research, please cite it using the following metadata."
 authors:
-  - family-names: Dan
-    given-names: Kamir
+  - family-names: Kan
+    given-names: Damir
     orcid: https://orcid.org/0009-0008-9559-875X
 title: "Analýza sentimentu fotbalových tweetů"
 version: 1.0.0
