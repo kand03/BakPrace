@@ -6,7 +6,4 @@ authors:
     orcid: https://orcid.org/0009-0008-9559-875X
 title: "Analýza sentimentu fotbalových tweetů"
 version: 1.0.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
 date-released: 2024-05-02
